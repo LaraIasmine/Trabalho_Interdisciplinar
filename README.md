@@ -19,7 +19,7 @@ No cmd, navegue até o diretório em que deseja clonar o repositório.
 Dentro do diretório, utiliza o comando: 
 
 ```
-$ git cone 
+$ git clone https://github.com/LaraIasmine/Trabalho_Interdisciplinar.git
 ```
 
 ### Sobre a base de dados utilizada
