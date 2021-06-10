@@ -1,6 +1,15 @@
 # Trabalho_Interdisciplinar
 Trabalho Interdisciplinar entre as matérias de Linguagens de Programação, Interação Homem Computador e Probabilidade e Estatistica Aplicada, no curso de Sistemas de Informação - 3º Semestre
 
+<table class="gn-seletable">
+<tbody><tr>
+<th>Alunos</th>
+<th>Matrícula</th></tr>
+<tr>
+<td>Gustavo Lino Barbosa</td>
+<td>9656506</td></tr>
+<tr><td>Lara Iasmine Pedroso Fabiano</td><td>7986907</td></tr><tr><td>Lucas Paraiso Pereira</td><td>6296471</td></tr><tr><td>Matheus Dalmaso Matsubara</td><td>4045063</td></tr><tr><td>Matheus La Scala Candido da Costa</td><td>6846008</td></tr><tr><td>Vitor Tuler Anizio</td><td>4736500</td></tr></tbody></table>
+
 ## Projeto
 
 Nestre trabalho integramos os conhecimentos de três matérias do semestre. Escolhemos o site do Portal da Transparencia de Minas Gerais (http://www.transparencia.mg.gov.br/) para a escolha de uma base de dados onde aplicamos os conceitos de Probabilidade e Estatística Aplicada, seguindo o paradigma funcional de programação, conceito aplicado nas aulas de Linguagens de Programação. Ainda sore o site, foi feita a analise através do percurso cognitivo, atendendo aos requisitos da matéria de Interação Homem Computador
