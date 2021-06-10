@@ -39,7 +39,7 @@ Ao realizar o download da base de dados, a qual é disponibilizada em arquivo .x
 
 ### Probabilidade e Estatistica Aplicada
 
-Matéria lecionada pelo Me. Professor José Neto Fontebasso
+Matéria lecionada pelo Me. Professor José Fontebasso Neto
 
 Atendendo aos requisitos do enunciado do trabalho, nós realizamos um programa que efetua o cáculo da correlação entre variáveis escolhidas pelo usuário, efetua a regressão linear através do modelo linear multivariado. 
 
