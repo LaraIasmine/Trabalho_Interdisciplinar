@@ -30,6 +30,9 @@ Dentro do diretório, utiliza o comando:
 ```
 $ git clone https://github.com/LaraIasmine/Trabalho_Interdisciplinar.git
 ```
+### Abrindo no colab
+
+Faça o download do arquivo .ipynb e abra com o https://colab.research.google.com/
 
 ### Sobre a base de dados utilizada
 
